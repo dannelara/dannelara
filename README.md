@@ -62,6 +62,8 @@
 
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=slowman1)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 
-[Daniel Lara](https://github.com/slowman1)
+[Daniel Lara](https://github.com/dannelara)
