@@ -66,4 +66,6 @@
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dannelara"/>
+
 [Daniel Lara](https://github.com/dannelara)
