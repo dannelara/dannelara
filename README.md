@@ -62,10 +62,9 @@
 
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dannelara)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dannelara&layout=compact"/>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=dannelara"/>
 
 [Daniel Lara](https://github.com/dannelara)
