@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel Martinez Lara</h1>
+<h1 align="center">Hi 👋, I'm Daniel Lara</h1>
 <h3 align="center">Student at Linnaeus university, Kalmar Sweden🌟.</h3>
 
 <br>
