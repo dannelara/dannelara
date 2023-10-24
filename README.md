@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Lara</h1>
-<h3 align="center">Student at Linnaeus university, Kalmar Sweden🌟.</h3>
+<h3 align="center">Developer at Compileit AB, Stockholm Sweden🌟.</h3>
 
 <br>
 
