@@ -12,7 +12,8 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 
-- 🌱  Full-stack developer with a keen interest in front-end and back-end development, as well as a deep passion for algorithms and data structures. I hold a bachelor's degree in data science from Linnaeus University and am currently employed at Compileit Sweden AB.
+- 🌱  Team Lead and Leader of AI Development with extensive experience in full-stack development. Specializes in both front-end and back-end technologies, with a strong passion for algorithms, data structures, and artificial intelligence. Holds a bachelor's degree in Data Science from Linnaeus University. Currently leading AI development initiatives at Compileit Sweden AB.
+
 
 - 📫 How to reach me **11daniel@live.se**
 
