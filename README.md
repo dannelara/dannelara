@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- Experienced **Team Lead and Full-Stack Developer** with strong expertise in both front-end and back-end technologies  
+- Experienced **Team Lead and Full-Stack Developer** with strong expertise in both front-end and back-end development  
 - Deep interest in **algorithms, data structures, and artificial intelligence**  
 - Bachelor’s degree in **Data Science** from **Linnaeus University**  
 - Currently working as a developer in **Stockholm, Sweden**
